@@ -1,0 +1,1 @@
+(() => { const v=document.querySelector('ytcp-video-metadata-visibility'); v.scrollIntoView({block:'center'}); const t=v.querySelector('#select-button, ytcp-dropdown-trigger, [role=button]')||v; const b=t.getBoundingClientRect(); return [b.x+b.width/2,b.y+b.height/2] })()

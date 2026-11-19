@@ -1,0 +1,1 @@
+(() => { const r=[...document.querySelectorAll('tp-yt-paper-radio-button')].find(x=>x.getAttribute('name')==='PRIVATE'); if(!r) return 'sem'; r.click(); return [...document.querySelectorAll('tp-yt-paper-radio-button')].map(x=>x.getAttribute('name')+':'+(x.checked||x.hasAttribute('checked'))).join(' ') })()

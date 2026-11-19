@@ -1,0 +1,1 @@
+(() => { const o=[]; const w=r=>{r.querySelectorAll('input[type=file]').forEach(e=>o.push([e.name,e.accept,e.closest('[id]')?.id])); r.querySelectorAll('*').forEach(e=>{if(e.shadowRoot)w(e.shadowRoot)});}; w(document); return o; })()

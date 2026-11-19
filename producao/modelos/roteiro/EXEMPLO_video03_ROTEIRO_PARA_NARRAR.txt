@@ -1,0 +1,177 @@
+﻿ROTEIRO PARA NARRAR - "A madrugada do GTA 6, minuto a minuto"
+Vídeo 03 do Gangstar Games. Publicação em 18/11/2026, véspera do lançamento.
+
+DICAS DE NARRAÇÃO (as mesmas do vídeo 01)
+1. Microfone a um palmo da boca (15-20 cm), um pouco de lado.
+2. Grave cada bloco num arquivo separado. Respira, solta o bloco inteiro e para.
+3. Errou? Não recomeça o bloco: espera 2 segundos em silêncio e regrava só aquela linha.
+4. Velocidade alvo: 180 a 200 palavras por minuto.
+5. O gancho (bloco 01) é o que segura o público. Energia lá em cima.
+6. Sorria de verdade nas linhas marcadas com (sorrindo).
+7. Ponto final é ponto final: deixa a voz cair. [pausa] = meio segundo de respiro.
+8. Nas marcas [PAUSA MEME], fica 2 segundos em silêncio depois da frase. É o espaço do meme na edição.
+9. NOVO: as gírias são suas. Se alguma não sair natural na sua boca, troca por outra da lista do final ou só pula. Melhor faltar gíria do que soar forçado.
+
+LEGENDA: [pausa] respiro curto | *palavra* ênfase | (sorrindo) (empolgado) (sério) (mais baixo, mistério) (exagerado) = muda a emoção a partir daí
+         [PAUSA MEME] silêncio de 2 s | [SE POSTAR DIA 19] troca a linha pela alternativa
+         ANIMAÇÃO = trecho de motion design (mapa, gráfico, comparação, notícia). Não é narração, é guia de edição.
+
+FONTES: entrevistas de Rob Nelson à IGN, Famitsu e Davy Jones; prévias da IGN, Famitsu, Kinda Funny e Dazed; informações oficiais da Rockstar. Mostrar a fonte de cada informação na tela, em letra pequena.
+
+REGRA DE ESTILO: nada de frase que empilha três ou mais coisas ("neon, palmeira, prédio..."). Cada frase fala de uma ou duas coisas.
+PALAVRÕES: no máximo 2 no vídeo inteiro, todos depois do primeiro minuto (o YouTube pega mais pesado com palavrão no começo do vídeo).
+
+FONTES DESTE VÍDEO: rascunho aprovado 02.md e roteiro do vídeo 02. Data das análises: boato de NateTheHate.
+EDIÇÃO: relógio de Brasília visível o vídeo inteiro. Usar trailer e imagens oficiais; interfaces desenhadas aparecem como ilustrações. Em 00:05, apresentar o plano de horários da jogatina.
+
+=== [01] GANCHO (0:00–0:40) ===
+(tom: empolgado, direto com você | ritmo: rápido, loop aos 30 segundos | tela: 08:00 do dia 18/11, horário de Brasília)
+ANIMAÇÃO: relógio permanente no canto; globo liga Brasil à Nova Zelândia. Cartões de fatos entram acompanhando as quatro primeiras falas.
+  1. (empolgado) Oito da manhã do dia dezoito. Na Nova Zelândia já é meia-noite do dia dezenove, e alguém acabou de abrir o GTA 6.
+  2. Você tem *dezesseis horas* pra fugir de spoiler até a liberação à meia-noite de Brasília, na virada pro dia dezenove.
+  3. E precisa acomodar até *duzentos e doze gigas* no console antes de entrar nessa madrugada.
+  4. Segundo Rob Nelson, à Famitsu, você começa nas *Keys*, longe da chegada em Vice City que talvez estivesse imaginando.
+  5. (mais baixo, mistério) E tem um erro às três da manhã que vai custar caro pra muita gente... [pausa] Quando o relógio chegar lá a gente te mostra.
+  6. Hoje a gente atravessa a madrugada inteira, *minuto a minuto*. (empolgado) Dezesseis horas desviando de spoiler, ce tá doido!
+
+=== [02] 08:00 DO DIA 18 — PROTEGE A SURPRESA (0:40–1:15) ===
+(tom: alerta de amigo | ritmo: médio-rápido | tela: 08:00 de 18/11, Brasília)
+ANIMAÇÃO: mapa-múndi destaca a Nova Zelândia; relógios mostram 08:00 e 00:00 do dia seguinte. Miniaturas genéricas recebem tarjas móveis.
+  7. Oito da manhã, dia dezoito: a liberação por fuso coloca a Nova Zelândia dezesseis horas na frente do Brasil.
+  8. Enquanto você prepara o café, já tem gente conhecendo a abertura. Protege a sua surpresa.
+  9. Silencia termos relacionados ao jogo nas redes que oferecem esse recurso. Começa por GTA 6 e pelos nomes dos protagonistas.
+ 10. Evita procurar gameplay só pra conferir se abriu por lá. A miniatura pode entregar uma cena antes de você clicar.
+ 11. (sorrindo) Esperar esse tempo todo pra tomar spoiler na notificação do celular é paia demais. Desativa a prévia dessas notificações hoje.
+ 12. Combina com quem vai jogar antes: pode avisar que entrou, mas segura as cenas.
+
+=== [03] 12:00 — SE AS ANÁLISES SAÍREM (1:15–1:50) ===
+(tom: ponderado, deboche leve | ritmo: médio | tela: 12:00 de 18/11, horário ilustrativo)
+ANIMAÇÃO: relógio avança até meio-dia; selo BOATO carimba cartão de NateTheHate. Notas fictícias ficam substituídas por interrogações.
+ 13. Meio-dia: confere se apareceram análises, sem mergulhar nos comentários de quem já está jogando.
+ 14. (sério) A data das análises no dia dezoito é *boato do NateTheHate*, sem confirmação da Rockstar.
+ 15. Se saírem, procura uma conclusão sem spoilers. Dá pra ouvir a opinião de quem jogou sem assistir à história inteira.
+ 16. (sorrindo) Discutir decimal de nota antes de abrir o jogo, rapaz? A noite nem começou e já tem briga por boletim.
+ 17. Pula os trechos de história das análises e fecha as recomendações de gameplay.
+
+=== [04] 20:00 — A CHECAGEM (1:50–2:40) ===
+(tom: prático, animado | ritmo: firme, um item por vez | tela: 20:00 de 18/11)
+ANIMAÇÃO: checklist marca espaço, atualização, região do código e cama, um item por fala. Barra de download avança sem estimativa inventada.
+ 18. Oito da noite: faltam quatro horas. Liga o console e confere se o pré-download terminou.
+ 19. O jogo ocupa até duzentos e doze gigas. Se o download parou, verifica o espaço disponível antes de tentar de novo.
+ 20. (sorrindo) Duzentos e doze gigas, gente! Esse jogo chega no console e já pede pra alguém sair de casa.
+ 21. Procura atualização pendente na página do jogo. Se tiver, baixa agora pra terminar antes da virada.
+ 22. Comprou a caixa com código, em vez de disco? Confere se a região desse código bate com a sua conta.
+ 23. No PlayStation, conta brasileira pede código brasileiro. Confere isso antes de passar a noite tentando resgatar na conta errada.
+ 24. Escolhe um horário pra ir pra cama agora, enquanto você ainda negocia com lucidez.
+ 25. (sorrindo) Eu vou pedir mais cinco minutos pra mim mesma até amanhecer. Meu fiscal do sono é muito incompetente, filho. [PAUSA MEME]
+
+=== [05] 23:30 — TIRA O DEDO DO REINICIAR (2:40–3:15) ===
+(tom: cúmplice da ansiedade | ritmo: médio-rápido | tela: 23:30 de 18/11)
+ANIMAÇÃO: botão REINICIAR recua do cursor; downloads paralelos são pausados. Relógio permanente ganha destaque e segue marcando 23:30.
+ 26. Onze e meia da noite: deixa o console ligado na tela do jogo. Quando o cadeado abrir, ele confere a licença sozinho.
+ 27. Reiniciar por ansiedade só interrompe essa espera. O relógio não vai andar mais rápido.
+ 28. (sorrindo) O botão de reiniciar virou botão de elevador, véi? Apertar vinte vezes não faz a meia-noite chegar mais rápido.
+ 29. Nada baixando no celular ou no PC. Confere também a TV da sala e pausa o que puder esperar.
+ 30. Se vier atualização no minuto zero, você quer a conexão disponível pra ela.
+ 31. Deixa o controle pronto e acompanha o relógio. [pausa] Falta meia hora pra virar o dia.
+
+=== [06] 00:00 — O CADEADO (3:15–3:55) ===
+(tom: euforia seguida de calma | ritmo: acelera na virada, desacelera no erro | tela: 00:00 de 19/11, Brasília)
+ANIMAÇÃO: calendário vira para 19/11; cadeado abre. Cartão ERRO? leva a um temporizador de cinco minutos, marcado como recomendação.
+ 32. (empolgado) Meia-noite de Brasília, dia dezenove! O cadeado abre, e aquela tela que você ficou encarando finalmente vira a entrada de Leonida.
+ 33. (sorrindo) Até tela de título vai virar acontecimento, guri. Depois dessa espera, dá pra entender quem parar ali só pra olhar.
+ 34. Apareceu erro de servidor? Espera cinco minutos e tenta de novo, sem começar a mudar todas as configurações do console.
+ 35. Se continuar, lê a mensagem antes de mexer. Apagar o jogo por impulso só acrescenta outro download.
+ 36. Seu amigo abriu transmissão? Pede pra avisar só se está funcionando, sem mostrar a abertura.
+ 37. (sorrindo) Pode gritar que abriu, mas narrar a primeira cena no grupo é sacanagem. Não rela não nessa surpresa!
+
+=== [07] 00:05 — DEIXA A INTRODUÇÃO ROLAR (3:55–4:30) ===
+(tom: encantado, sem revelar além das referências | ritmo: médio | tela: 00:05 de 19/11, roteiro sugerido)
+ANIMAÇÃO: mapa aproxima as Keys e destaca Jason; cartão de Lucia parte da penitenciária. Selo HORÁRIOS SUGERIDOS permanece nas etapas de jogo.
+ 38. Meia-noite e cinco: daqui pra frente, os horários são o *meu plano* sugerido pra você atravessar a madrugada.
+ 39. Segundo Rob Nelson, à Famitsu, a história começa nas Leonida Keys, as ilhas do sul onde mora Jason Duval.
+ 40. Na mesma entrevista à Famitsu, Nelson conta que Lucia Caminos chega vindo da penitenciária de Leonida. É daí que a história parte.
+ 41. Não pula a introdução pra correr até a primeira missão. Deixa as cenas apresentarem os personagens.
+ 42. (sorrindo) A contagem acabou e você já quer pular a abertura, mano? Foram anos esperando justamente pra chegar nessa parte!
+
+=== [08] 00:40 — ESQUECE O MARCADOR UM POUCO (4:30–5:10) ===
+(tom: curioso, convidativo | ritmo: médio | tela: 00:40 de 19/11, horário sugerido)
+ANIMAÇÃO: marcador de missão diminui e uma rota livre se desenha nas Keys. Ícone de combustível esvazia e interrompe um carro ilustrativo.
+ 43. Meia-noite e quarenta: quando o jogo te soltar, esquece o marcador por um tempo. Escolhe uma direção e vai.
+ 44. Rob Nelson disse à IGN que duvida que alguém da equipe conheça o jogo inteiro. Até quem fez ainda tem coisa pra descobrir.
+ 45. Viu uma porta interessante, tenta abrir. Uma rua chamou atenção, entra nela antes de voltar pro caminho da missão.
+ 46. Como a gente falou no vídeo de ontem, olha a gasolina: Nelson contou ao Davy Jones que ficou sem combustível numa perseguição.
+ 47. (exagerado) O chefão do jogo ficou sem gasolina na fuga, véi! A polícia nem precisou ser melhor, só precisava continuar andando. [PAUSA MEME]
+ 48. Nesse passeio, conhece os arredores das Keys e repara no caminho de volta.
+
+=== [09] 01:00 — ANTES DO PRIMEIRO CRIME (5:10–5:35) ===
+(tom: breve, preparando a próxima cena | ritmo: médio-rápido | tela: 01:00 de 19/11, horário sugerido)
+ANIMAÇÃO: cartão VÍDEO DE ONTEM aparece; camisa e armas entram no porta-malas ilustrado, uma de cada vez.
+ 49. Uma da manhã: resolve a preparação no carro antes do primeiro crime.
+ 50. Como a gente falou no vídeo de ontem, leva roupa reserva no porta-malas; segundo Nelson, a polícia guarda sua descrição.
+ 51. E segundo o Nelson, o porta-malas também guarda as armas. Organiza isso antes de entrar na loja.
+ 52. (sorrindo) Planejar o assalto e esquecer a troca de roupa é demais, zé. A descrição do suspeito já vai pronta!
+
+=== [10] 01:30 — A PRIMEIRA LOJA (5:35–6:15) ===
+(tom: curioso, divertido na surpresa | ritmo: médio | tela: 01:30 de 19/11, horário sugerido)
+ANIMAÇÃO: planta ilustrativa de loja recebe seta pelos fundos; câmera apaga. Uma segunda personagem entra e interrompe o trajeto planejado.
+ 53. Uma e meia: começa por uma loja pequena. Observa o lugar antes de sair apontando arma pra tudo que se mexe.
+ 54. Segundo a Famitsu, dá pra entrar pelos fundos e abrir a fechadura. A prévia também descreve desligar as câmeras.
+ 55. Segundo a IGN, a polícia fica sabendo se alguém vê ou se um alarme dispara. Então confere quem está por perto.
+ 56. Procura uma entrada discreta antes de transformar a porta da frente num espetáculo.
+ 57. Na prévia do Kinda Funny, outra ladra tentou assaltar a mesma loja na frente do Jason. O crime já estava ocupado!
+ 58. (exagerado) Até pra roubar tem fila, muleque? Vai ter que tirar senha e esperar chamarem o próximo assaltante. [PAUSA MEME]
+ 59. Se aparecer outra pessoa no meio do plano, observa a reação antes de agir.
+
+=== [11] 02:00 — SE A FUGA COMEÇAR (6:15–6:55) ===
+(tom: tensão controlada | ritmo: rápido, pausando nas orientações | tela: 02:00 de 19/11, horário sugerido)
+ANIMAÇÃO: HUD ilustrativo acende seis estrelas; pontos somem e uma área de busca pulsa. Uma seta cruza a borda; disparo ilustrado distrai a perseguição.
+ 60. Duas da manhã: se o roubo deu errado, começa a fuga. Segundo as prévias, a perseguição agora chega a *seis estrelas*.
+ 61. (exagerado) Seis estrelas, ce tá doido? Era pra testar uma lojinha, e a noite virou seleção de procurado do ano!
+ 62. Segundo as prévias, os policiais deixam de aparecer como pontinhos no minimapa. Agora você acompanha a área onde estão procurando.
+ 63. (sorrindo) Sumiu o pontinho, ficou a área de busca: tá confortável agora? Procura a saída dessa área antes de escolher outra confusão.
+ 64. Segundo a Famitsu, dá pra atirar perto dos policiais de propósito, pra assustar e ganhar tempo durante a fuga.
+ 65. (sorrindo) Até errar o tiro ganhou utilidade, ce loko! O importante nessa hora é aproveitar o tempo pra sair dali.
+ 66. Como a gente falou no vídeo de ontem, segundo as prévias, o perfil criminal considera sua conduta; fugir sem matar conta a favor.
+
+=== [12] 03:00 — O ERRO CARO (6:55–7:35) ===
+(tom: revelação, depois conselho próximo | ritmo: pausa antes da resposta | tela: 03:00 de 19/11, horário sugerido)
+ANIMAÇÃO: loop do gancho se fecha; rota entre duas lojas ganha uma parada no caixa. Contador BOLSO esvazia ao ser preso; BANCO mantém o saldo.
+ 67. Três da manhã: chegou o *erro caro* do começo. [pausa] É emendar outro roubo carregando no bolso tudo que você acabou de ganhar.
+ 68. Como a gente falou no vídeo de ontem, preso ou morto perde o dinheiro do bolso; só deposita no caixa eletrônico.
+ 69. Então coloca a ida ao caixa entre um roubo e outro. Faz esse desvio antes de procurar a próxima loja.
+ 70. (sorrindo) Escapou de seis estrelas e agora vai arriscar tudo de novo, macho? Essa confiança tá gastando mais que você.
+ 71. A primeira fuga deu certo e você quer aproveitar a sequência? Interrompe o embalo e procura o caixa.
+ 72. Assim, uma perseguição ruim depois não leva junto o dinheiro dessa rodada.
+
+=== [13] 04:00 — A CAMA DO CHECKLIST (7:35–8:10) ===
+(tom: cansado de brincadeira, acolhedor | ritmo: desacelera | tela: 04:00 de 19/11, horário sugerido)
+ANIMAÇÃO: item CAMA retorna do checklist das 20:00; avatar de jogador boceja e o ponteiro desacelera sem parar o relógio.
+ 73. Quatro da manhã: lembra da cama no checklist das oito? Era a sua também, então começa a preparar o encerramento.
+ 74. Como a gente falou no vídeo de ontem, segundo Dazed e Kinda Funny, dias sem dormir afetam a aparência e a recuperação do personagem.
+ 75. (sorrindo) Eu cuidando do sono do Jason enquanto viro um camarão na cadeira. Tá tranquilo, o personagem tá vivendo melhor que eu. [PAUSA MEME]
+ 76. Escolhe um ponto de parada perto de casa e salva antes de desligar.
+ 77. Precisa acordar cedo amanhã? Cumpre o limite das oito, a próxima missão vai continuar lá.
+
+=== [14] 05:00 — LEONIDA FICA PRA AMANHÃ TAMBÉM (8:10–8:40) ===
+(tom: encantado, fechando a jornada | ritmo: médio-calmo | tela: 05:00 de 19/11, horário sugerido)
+ANIMAÇÃO: mapa ilustrativo se afasta e revela caminhos ainda sem percurso. Um local recebe o marcador AMANHÃ e entra numa anotação.
+ 78. Cinco da manhã: segundo as prévias, Leonida tem uma escala enorme. Tentar conhecer o mapa inteiro agora vai engolir o resto da noite.
+ 79. Lembra do Nelson falando à IGN que nem a equipe conhece tudo? Dá pra deixar uma estrada inteira pra próxima sessão.
+ 80. Anota o lugar que chamou atenção e ficou pra depois, antes que o sono apague essa lembrança.
+ 81. (empolgado) Outra ladra na mesma loja e o chefe ficando sem gasolina: esses cara viaja demais! Até um passeio curto rende história.
+ 82. Escolhe qual caminho vai explorar amanhã e deixa esse destino marcado pra próxima sessão.
+
+=== [15] 05:00 — FECHO (8:40–9:00) ===
+(tom: caloroso, energia volta no convite | ritmo: direto | tela: 05:00 de 19/11 e tela final)
+ANIMAÇÃO: cadeado aberto vira balão de comentário; botão de inscrição pulsa. Card O PRIMEIRO DIA PERFEITO entra mantendo o relógio visível.
+ 83. Agora comenta: qual vai ser a primeira coisa que você vai fazer quando o cadeado abrir? Quero comparar os planos.
+ 84. Se inscreve no Gangstar Games pra acompanhar as próximas descobertas em Leonida e chegar preparado pra próxima sessão.
+ 85. E clica no vídeo de ontem: *o primeiro dia perfeito*. Lá a gente explica os cuidados que hoje ficaram só no lembrete.
+ 86. A gente se vê em Leonida. Aproveita a sua primeira madrugada, porque essa estreia só acontece uma vez.
+
+============================================================
+Total: 86 falas.
+Gírias usadas (18 ocorrências): ce tá doido (2); paia; rapaz; gente; macho; filho; véi (2); guri; não rela não; mano; zé; muleque; tá confortável; ce loko; tá tranquilo; esses cara viaja demais.
+Palavrões: 1 (sacanagem, depois do primeiro minuto). Pausas de meme: 4.
+Contagem: 1.586 palavras de narração (somente texto falado; exclui numeração, marcações de atuação, cabeçalho e instruções de edição).

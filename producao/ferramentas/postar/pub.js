@@ -1,0 +1,1 @@
+(() => { const d=document.querySelector('ytcp-uploads-dialog'); const r=d.querySelector('tp-yt-paper-radio-button[name=PUBLIC]'); r.click(); return [...d.querySelectorAll('tp-yt-paper-radio-button')].map(x=>x.getAttribute('name')+':'+(x.checked||x.hasAttribute('checked'))) })()

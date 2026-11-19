@@ -1,0 +1,1 @@
+(() => { const d=document.querySelector('ytcp-uploads-dialog'); return [d.querySelector('#title-textarea #textbox').innerText, d.querySelector('#description-textarea #textbox').innerText.length, d.querySelector('ytcp-video-upload-progress')?.innerText, d.querySelector('a.ytcp-video-info, .video-url-fadeable a')?.href] })()

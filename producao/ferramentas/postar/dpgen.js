@@ -1,0 +1,1 @@
+(() => { const b=[...document.querySelectorAll('button')].find(b=>b.innerText.trim()==='Gerar Áudio'); if(!b) return 'sem botao'; if(b.disabled) return 'desabilitado'; b.scrollIntoView({block:'center'}); b.click(); return 'clicou' })()

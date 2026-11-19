@@ -1,0 +1,1 @@
+(() => { const t=document.body.innerText; return [/clon/i.test(t), (t.match(/[^\n]*clon[^\n]*/gi)||[]).slice(0,10), [...document.querySelectorAll('button,a,[role=button]')].map(b=>(b.innerText||b.getAttribute('aria-label')||'').trim()).filter(x=>x&&x.length<40).slice(0,60)] })()

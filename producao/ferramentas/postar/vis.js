@@ -1,0 +1,1 @@
+(() => [...document.querySelectorAll('ytcp-video-metadata-visibility, #visibility-select, ytcp-icon-button, [id*=visibility]')].map(e=>e.id+':'+e.tagName+':'+(e.innerText||'').replace(/\s+/g,' ').slice(0,60)).slice(0,15))()

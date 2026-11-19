@@ -1,0 +1,1 @@
+(() => { const d=document.querySelector('ytcp-uploads-dialog'); if(!d) return 'sem dialogo'; const s=d.querySelector('#scrollable-content') ; const t=d.innerText.replace(/\s+/g,' '); const i=t.indexOf('Direitos'); return t.slice(Math.max(0,i-200), i+500) + ' || ' + (d.querySelector('ytcp-video-upload-progress')?.innerText||'') })()

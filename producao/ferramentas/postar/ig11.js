@@ -1,0 +1,1 @@
+(async () => { const b=[...document.querySelectorAll('button, div[role=button]')].find(e=>e.innerText.trim()==='Compartilhar'); if(!b) return 'sem'; b.click(); for(let i=0;i<30;i++){ await new Promise(r=>setTimeout(r,1000)); if(!location.href.includes('/create/')) break; } return location.href + ' | ' + document.body.innerText.slice(0,200); })()

@@ -1,0 +1,1 @@
+(() => [[...document.querySelectorAll('button')].filter(b=>/Upgrade/.test(b.innerText)).map(b=>b.disabled), (document.body.innerText.match(/[$€R]\S*\s?\d+[^\n]{0,25}/g)||[]).slice(0,8), (document.body.innerText.match(/[^\n]*(Pay as you go|billing|payment|blocked|error|unavailable)[^\n]*/gi)||[]).slice(0,8)])()

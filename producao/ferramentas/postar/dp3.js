@@ -1,0 +1,1 @@
+(() => { const p=[...document.querySelectorAll('div')].find(d=>/Biblioteca de Vozes/.test(d.innerText||'') && d.innerText.length<3000); return p? p.innerText.replace(/\s+/g,' ').slice(0,1200):'?' })()

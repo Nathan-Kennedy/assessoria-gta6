@@ -1,0 +1,1 @@
+(() => [location.href, document.body.innerText.replace(/\s+/g,' ').slice(0,1500), [...document.querySelectorAll('a[href]')].map(a=>a.innerText.trim()+'>'+a.getAttribute('href')).filter(x=>x.length<80).slice(0,60)])()
