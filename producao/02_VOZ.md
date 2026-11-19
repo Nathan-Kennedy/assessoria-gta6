@@ -31,7 +31,7 @@ Serve para narração-guia, para corrigir uma palavra errada na gravação real,
   4. `montar_outro.py`: corte suave, com trim só abaixo de −50 dB, 80 ms de folga e fade de 12 ms. O trim em −38 dB comia o começo e o fim das palavras.
 - Para trocar uma palavra na gravação real, use a palavra da voz clonada com o volume igualado, e confira com o whisper no contexto. Recortar a mesma palavra de outro trecho da pessoa soou errado.
 - Alternativas instaladas: Qwen3-TTS (`gerar_qwen.py`; use language "Auto", porque "Portuguese" sai com sotaque de Portugal) e Chatterbox (`gerar_chatterbox.py` + `pronuncia_ptbr.py` para nomes em inglês).
-- **Só clone a voz de quem autorizou.** As referências de voz não vão para o repositório.
+- **Só clone a voz de quem autorizou.** As referências de voz do Nathan e do Rodrigo, com a receita passo a passo, ficam no repositório **privado** `Nathan-Kennedy/gangstar-vozes` (peça acesso ao dono). Nunca coloque esses áudios num repositório público.
 
 ## C) DarkPlanner (site pago, ~R$ 50/mês)
 
